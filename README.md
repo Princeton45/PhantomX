@@ -1,2 +1,2 @@
-# Pronces
+# PhantomX
 A Text Editor
